@@ -1,5 +1,5 @@
 
-# Personal Appareal Recommender System
+# Personal Apparel Recommender System
 
 A recommender system that generates personalized item recommendations for customers based on purchase history and customer-to-customer similarities. 
 
